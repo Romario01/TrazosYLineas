@@ -1,0 +1,11 @@
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.Form1.resources
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.Properties.Resources.resources
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.Puntos_del_Triangulo.resources
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.csproj.GenerateResource.cache
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.csproj.CoreCompileInputs.cache
+C:\Users\rfls_\source\repos\Trazos\Trazos\bin\Debug\Trazos.exe.config
+C:\Users\rfls_\source\repos\Trazos\Trazos\bin\Debug\Trazos.exe
+C:\Users\rfls_\source\repos\Trazos\Trazos\bin\Debug\Trazos.pdb
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.exe
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.pdb
+C:\Users\rfls_\source\repos\Trazos\Trazos\obj\Debug\Trazos.csprojAssemblyReference.cache
